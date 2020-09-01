@@ -1,3 +1,5 @@
-# A-star-path-visualiser
+# Pathfinder-visualiser
 
-using Pygame 
+Using Dijkstra's and A-star algorithm
+
+Implemented using Pygame 
